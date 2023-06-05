@@ -1,0 +1,22 @@
+@import url(header.css);
+
+.reservas{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    justify-content: space-around;
+    list-style: none;
+    padding-top: 10vh;
+}
+
+.reservarForm{
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-content: center;
+    width: 30%;
+    margin: auto;
+    margin-top: 10%;
+}
+
+.btn_reserva{
+    margin-top: 3rem;
+}

@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(189, 189, 189);
+}
+
+.linkReserva{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.link{
+    color: black;
+    text-decoration: none;
+    padding: 30px;
+    font-size: larger;
+}
